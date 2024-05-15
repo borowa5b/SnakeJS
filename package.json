@@ -1,0 +1,24 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Simple snake game in JavaScript",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borowa5b/SnakeJS.git"
+  },
+  "keywords": [
+    "snake"
+  ],
+  "author": "Mateusz Borowski <borowa5b@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borowa5b/SnakeJS/issues"
+  },
+  "homepage": "https://github.com/borowa5b/SnakeJS#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
